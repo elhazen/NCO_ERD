@@ -3,10 +3,15 @@ NetCDF code for NCO and Panoply by Mike Jacox 1/21/2021
 
 Links
 List of netcdf resources (https://www.unidata.ucar.edu/software/netcdf/software.html)
+
 NCO homepage (http://nco.sourceforge.net/)
+
 NCO user guide (long - http://nco.sourceforge.net/nco.html)
+
 Presentation with some basic NCO examples (http://research.atmos.ucla.edu/csi/GROUP/tips/NCO_basics_N.Berg2013.pdf)
+
 Panoply user guide (https://earth.usc.edu/files/ge-labs/EdGCM/Documentation/Panoply_Manual.pdf)
+
 
 Installation
 
